@@ -1,0 +1,10 @@
+@article{REPO315,
+    author = "Xie, Minshan and Xia, Menghan and Liu, Xueting and Li, Chengze and Wong, Tien-Tsin",
+    journal = "ACM Transactions on Graphics (SIGGRAPH 2021 issue)",
+    month = "August",
+    number = "4",
+    pages = "96:1--96:11",
+    title = "{Seamless Manga Inpainting with Semantics Awareness}",
+    volume = "40",
+    year = "2021"
+}
